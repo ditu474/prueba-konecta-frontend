@@ -121,7 +121,7 @@ const SolicitudesForm = ({ onAddSolicitud }) => {
 						disabled={isSubmitting}
 						type="submit"
 					>
-						Crear Empleado
+						Crear Solicitud
 					</Button>
 				</form>
 			)}
